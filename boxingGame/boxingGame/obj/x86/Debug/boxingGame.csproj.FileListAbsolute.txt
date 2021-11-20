@@ -1,0 +1,15 @@
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\boxingGame\bin\Debug\boxingGame.exe
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\boxingGame\bin\Debug\boxingGame.pdb
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\boxingGame\obj\x86\Debug\boxingGame.myHealth.resources
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\boxingGame\obj\x86\Debug\boxingGame.Properties.Resources.resources
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\boxingGame\obj\x86\Debug\boxingGame.csproj.GenerateResource.Cache
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\boxingGame\obj\x86\Debug\boxingGame.exe
+C:\Users\Axel Tang\AppData\Local\Temporary Projects\boxingGame\obj\x86\Debug\boxingGame.pdb
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\boxingGame\boxingGame\obj\x86\Debug\boxingGame.exe
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\boxingGame\boxingGame\obj\x86\Debug\boxingGame.pdb
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\boxingGame\boxingGame\bin\Debug\boxingGame.exe
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\boxingGame\boxingGame\bin\Debug\boxingGame.pdb
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\boxingGame\boxingGame\obj\x86\Debug\boxingGame.myHealth.resources
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\boxingGame\boxingGame\obj\x86\Debug\boxingGame.Properties.Resources.resources
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\boxingGame\boxingGame\obj\x86\Debug\boxingGame.csproj.GenerateResource.Cache
+C:\Users\Axel Tang\Documents\Visual Studio 2010\Projects\boxingGame\boxingGame\obj\x86\Debug\boxingGame.csprojResolveAssemblyReference.cache
